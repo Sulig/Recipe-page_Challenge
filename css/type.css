@@ -1,0 +1,33 @@
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+/*                  Font Styling                */
+/*~ ------------------------------------------ ~*/
+
+/* OUTFIT TYPO ----------------------> */
+/* Outfit Variable */
+@font-face {
+    font-family: "Outfit Var";
+    src: 
+        url("../assets/fonts/outfit/Outfit-VariableFont_wght.ttf") 
+        format("ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Outfit Regular */
+@font-face {
+    font-family: "Outfit Regular";
+    src: 
+        url("../assets/fonts/outfit/static/Outfit-Regular.ttf") 
+        format("ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+/*  <-------------------------------- */
+
+/* Young Serif */
+@font-face {
+    font-family: "Young Serif";
+    src: url("../assets/fonts/young-serif/YoungSerif-Regular.ttf")
+    format("ttf");
+}
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/

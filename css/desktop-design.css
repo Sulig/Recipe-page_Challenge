@@ -1,0 +1,29 @@
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+/*                Desktop Design                */
+/*~ ------------------------------------------ ~*/
+
+/* Center the son with flex */
+body {
+    background-color: var(--color-eggshell);
+
+    display: flex;
+    justify-content: center;
+
+    padding: 40px 0 40px 0;
+}
+
+main {
+    background-color: white;
+    border-radius: 15px;
+    padding: 25px;
+}
+
+img {
+    width: 100%;
+}
+
+p {
+    font-size: 16px;
+}
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
